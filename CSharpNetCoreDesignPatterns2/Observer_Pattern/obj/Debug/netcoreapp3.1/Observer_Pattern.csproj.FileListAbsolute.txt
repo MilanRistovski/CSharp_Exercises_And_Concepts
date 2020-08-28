@@ -1,0 +1,13 @@
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\bin\Debug\netcoreapp3.1\Observer_Pattern.exe
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\bin\Debug\netcoreapp3.1\Observer_Pattern.deps.json
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\bin\Debug\netcoreapp3.1\Observer_Pattern.runtimeconfig.json
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\bin\Debug\netcoreapp3.1\Observer_Pattern.runtimeconfig.dev.json
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\bin\Debug\netcoreapp3.1\Observer_Pattern.dll
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\bin\Debug\netcoreapp3.1\Observer_Pattern.pdb
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\obj\Debug\netcoreapp3.1\Observer_Pattern.csprojAssemblyReference.cache
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\obj\Debug\netcoreapp3.1\Observer_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\obj\Debug\netcoreapp3.1\Observer_Pattern.AssemblyInfoInputs.cache
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\obj\Debug\netcoreapp3.1\Observer_Pattern.AssemblyInfo.cs
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\obj\Debug\netcoreapp3.1\Observer_Pattern.dll
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\obj\Debug\netcoreapp3.1\Observer_Pattern.pdb
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\Observer_Pattern\obj\Debug\netcoreapp3.1\Observer_Pattern.genruntimeconfig.cache

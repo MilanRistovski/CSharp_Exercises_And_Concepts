@@ -1,0 +1,13 @@
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\bin\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.exe
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\bin\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.deps.json
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\bin\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.runtimeconfig.json
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\bin\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.runtimeconfig.dev.json
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\bin\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.dll
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\bin\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.pdb
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\obj\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.csprojAssemblyReference.cache
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\obj\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.csproj.CoreCompileInputs.cache
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\obj\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.AssemblyInfoInputs.cache
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\obj\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.AssemblyInfo.cs
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\obj\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.dll
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\obj\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.pdb
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\CSharpNetCoreDesignPatterns2\obj\Debug\netcoreapp3.1\CSharpNetCoreDesignPatterns2.genruntimeconfig.cache

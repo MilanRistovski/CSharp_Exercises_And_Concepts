@@ -1,0 +1,13 @@
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.exe
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.deps.json
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.json
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.dev.json
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csprojAssemblyReference.cache
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+C:\Users\Milan CRMT\source\repos\CSharpNetCoreDesignPatterns2\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.genruntimeconfig.cache
